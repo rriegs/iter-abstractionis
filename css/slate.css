@@ -1,0 +1,16 @@
+body {color:#ddd; background-color:#303e45}
+.sheet {color:#ddd; background-color:#3a4b53}
+.entry {color:#ddd; background-color:#435761}
+
+.slider {color:#ddd; background-color:#607d8b}
+.slider::-webkit-slider-thumb {background:#04AA6D}
+.slider::-moz-range-thumb {background:#04AA6D}
+
+.entry button:hover {color:#ddd !important; background-color:#607d8b !important}
+
+.progress-bar {color:#ddd; background-color:#435761}
+.progress, .progress-right {color:#ddd; background-color:#7d97a5}
+.progress-bonus {color:#111; background-color:#ff9800}
+
+.tooltiptext {color:#ddd; background-color:#111}
+.tooltiptext::after {border-color:transparent #111 transparent transparent;}
