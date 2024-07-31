@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+
+# Compiled output
+/dist
+/tmp
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# VS Code IDE
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Local environment variables
+.env
+
+# Miscellaneous
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+*~
+\#*\#
